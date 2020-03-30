@@ -1,0 +1,31 @@
+main: cc.imthi.drugs.DrugsPlugin
+name: Drugs
+version: 1.0
+author: Casper
+description: A simple plugin that lets users take drugs
+commands:
+   crack:
+      description: Smoke some crack cocaine [Requires Empty Inventory]
+      usage: /crack
+   weed:
+      description: Wanna get high? Might wanna do this one indoors ;) [Requires Empty Inventory]
+      usage: /weed
+   nang:
+      description: Anyone got a cracker? [Doesn't Require Empty Inventory]
+      usage: /nang
+   speed:
+      description: I AM SPEED [Requires Empty Inventory]
+      usage: /nang
+   rehab:
+      description: Reset/cancel all drug effects [Doesn't Require Empty Inventory]
+      usage: /rehab
+   acid:
+      description: Strongest Drug [Requires Empty Inventory]
+      usage: /acid
+   screen:
+      description: Manually choose a screen filter. Used in drugs
+      usage: /screen
+   bathsalt:
+      description: Zombie drug
+      usage: /screen
+   
