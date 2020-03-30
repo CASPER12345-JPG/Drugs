@@ -1,3 +1,3 @@
 # Drugs
 
-A minecraft plugin that gives let user's use "drugs"
+A minecraft plugin that lets users use "drugs"
